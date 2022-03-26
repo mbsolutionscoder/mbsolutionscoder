@@ -1,3 +1,3 @@
-- 👋 Hi, I’m Martin Václav Bezucha [@mbsolutionscoder]
+- 👋 Hi, I’m Martin Václav Bezucha @mbsolutionscoder
 - 👀 I’m interested in web development
 - 📫 How to reach me: bezucha@mbsolutions.cz
